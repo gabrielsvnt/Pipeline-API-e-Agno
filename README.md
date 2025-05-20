@@ -13,7 +13,7 @@ Este projeto consiste em uma API de pipeline para extração, processamento e vi
 
 1. Clone o repositório:
     ```bash
-    git clone <url-do-repositorio>
+    git clone git@github.com:gabrielsvnt/Pipeline-API-e-Agno.git
     cd Pipeline-API-e-Agno
     ```
 
@@ -36,8 +36,3 @@ Este projeto consiste em uma API de pipeline para extração, processamento e vi
     ```bash
     python agents/main.py
     ```
-
-## Requisitos
-
-- Python 3.8+
-- Bibliotecas listadas em `requirements.txt`
