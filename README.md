@@ -36,3 +36,8 @@ Este projeto consiste em uma API de pipeline para extração, processamento e vi
     ```bash
     python agents/main.py
     ```
+
+## Requisitos
+
+- Python 3.8+
+- Bibliotecas listadas em `requirements.txt`
