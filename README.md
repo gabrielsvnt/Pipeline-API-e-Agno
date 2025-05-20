@@ -9,6 +9,9 @@ Este projeto consiste em uma API de pipeline para extração, processamento e vi
 - `dashboard/bitcoin_dashboard.py`: Implementa um dashboard interativo para visualização dos dados processados do Bitcoin, permitindo análise gráfica e acompanhamento em tempo real.
 - `agents/main.py`: Contém a lógica dos agentes inteligentes que automatizam tarefas dentro do pipeline, como monitoramento de dados, alertas e execução de rotinas programadas.
 
+## Arquitetura do projeto
+![arquitetura_api_dashboard_agente_ia](https://github.com/user-attachments/assets/7aac50ca-4975-44b6-b92f-194bc385923d)
+
 ## Como Executar
 
 1. Clone o repositório:
